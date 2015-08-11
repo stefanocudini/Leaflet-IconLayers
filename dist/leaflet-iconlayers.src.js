@@ -1,3 +1,19 @@
+/* 
+ * Leaflet-IconLayers v0.1.1 - 2015-08-11 
+ * 
+ * Copyright 2015 Alexander Zverev 
+ * alexander.zverev@gmail.com 
+ * https://github.com/zverev 
+ * 
+ * Licensed under the MIT license. 
+ * 
+ * Demos: 
+ * https://github.com/ScanEx/Leaflet-IconLayers 
+ * 
+ * Source: 
+ * https://github.com/ScanEx/Leaflet-IconLayers.git 
+ * 
+ */
 (function() {
     function each(o, cb) {
         for (var p in o) {
